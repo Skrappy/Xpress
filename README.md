@@ -1,2 +1,2 @@
 # Xpress
-This is a git tutorial repository
+This is the intial template for my Aspnet5 Website using Visual Code on windows.
